@@ -35,7 +35,7 @@ Perform the following:
 
 5. Install the recommended extensions from IAR and Microsoft.
 
-6. The CMake Tools extension will offer to select a preset for configuring the project. A drop-down selection box will offer __cxarm-linux__ as an option for buildign with the IAR Build Tools.
+6. The CMake Tools extension will offer to select a preset for configuring the project. A drop-down selection box will offer __cxarm-linux__ as an option for building with the IAR Build Tools.
 
 ## Authenticate to the IAR Cloud License service
 The IAR Build Tools require an user license to operate and, for that reason, the project will not build at first. Choose one of the following methods:
@@ -68,6 +68,7 @@ Dev Containers simplify bootstrapping the whole development environment with the
 - [Dev Container specification](https://containers.dev/)
 - [VS Code - Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - [VS Code - IAR Extension Pack](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-extension-pack)
+
 
 
 
